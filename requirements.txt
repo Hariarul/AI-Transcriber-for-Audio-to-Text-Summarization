@@ -1,5 +1,4 @@
 yt-dlp==2025.3.21
-gcc==14.2.0
 soundfile==0.13.1
 whisper==20240930
 transformers==4.50.3
