@@ -1,0 +1,11 @@
+yt-dlp==2025.3.21
+gcc==14.2.0
+soundfile==0.13.1
+whisper==20240930
+transformers==4.50.3
+scikit-learn==1.6.1
+streamlit==1.37.1
+torch==2.6.0+cpu
+torchaudio==2.6.0+cpu
+ffmpeg-python==0.2.0
+numpy==1.26.4
